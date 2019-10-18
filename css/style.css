@@ -18,5 +18,32 @@
   .box {background:#E6E6E6;}
   .photo{ max-width:1170px;
   	       width:100%;
-  	      padding:30px 100px;
-}
+  	      padding:30px 100px;}
+  .container{ /*max-width:1370;
+  	          width:100%;*/
+  	          width:1370px;
+  	          height:500px;
+             background:#363E97;
+
+  }
+  .text{ font-size:24px; 
+  	     color:#fff;
+  	     padding:20px 100px;
+ }
+ 
+ .box1 { padding:20px 100px; }
+ .italy{  float:left;
+ 	      width:450px; 
+ 	      height:300px;
+ 	      margin-right:20px;
+
+ }
+ .italy1{ float:right;
+ 	      width:450px; 
+ 	      height:300px;
+ }
+ .container:after{ content:"";
+                   clear:both;
+                   display:block;
+
+  }
