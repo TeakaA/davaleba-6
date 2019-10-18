@@ -45,5 +45,13 @@
  .container:after{ content:"";
                    clear:both;
                    display:block;
+ }
+ .comtainer{background-color:#BDCCD4;
+ 	         width:1370px;
+ 	         height:450px;
 
-  }
+ }
+ .box-photo{width:270px;
+ 	        height:210px;
+
+ }
