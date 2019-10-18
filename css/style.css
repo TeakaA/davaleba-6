@@ -1,0 +1,16 @@
+
+.logo{float:left;
+	width:197px;
+
+
+}
+
+.navbar{float:right;
+	     
+}
+.navbar-li{ display:inline-block;
+	        font-size:30px;
+	        margin:5px;
+
+  }
+  .clear{ clear:both; }
