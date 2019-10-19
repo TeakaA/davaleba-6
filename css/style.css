@@ -46,12 +46,17 @@
                    clear:both;
                    display:block;
  }
- .comtainer{background-color:#BDCCD4;
+ .container1 {background:#BDCCD4;
  	         width:1370px;
  	         height:450px;
+ 	         padding:100px 100px;
 
  }
- .box-photo{width:270px;
- 	        height:210px;
+ 
+ 
+ .text1{font-size:24px;
+ 	    color:#3D58A6;
+ 	    font-family:'Roboto-Regular';
 
  }
+ 
