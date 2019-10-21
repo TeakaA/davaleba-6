@@ -78,7 +78,7 @@
 
  	         }
  .last-box{ width:1370px;
- 	        height:350px;
+ 	        height:500px;
  	        background:#E6E6E6;
  	        clear:both;
 
@@ -94,15 +94,49 @@
  }
  .last-box1{float:left;
  	        width:500px;
- 	        height:200px;
+ 	        height:300px;
  	        background:#F2F2F2;
 
  }
 
+ h1{font-size:22px;
+ 	font-family:'Roboto-Regular';
+ 	color:#3D58A6;
+ 	display:block;
+ 	padding:5px 5px;
+ }
+ 
+ .last-photo{width:150px;
+     	        vertical-align:top;
+     	        display:inline-block;
+     	        margin-right:50px;
+     	        margin-top:20px;
+ 	         
+ 	         
+
+ }
+  h2{ font-size:20px;
+    	   vertical-align:middle; 
+    	   display:inline-block;
+    	   margin-bottom:20px;
+           font-family:'Roboto-Regular'; 
+    	   width:250px;
+
+  }
+  
 .last-box2{float:right;
  	        width:500px;
- 	        height:200px;
+ 	        height:300px;
  	        background:#F2F2F2;
+
+ }
+ .last-photo1{width:150px;
+     	        vertical-align:top;
+     	        display:inline-block;
+     	        margin-right:50px;
+     	        margin-top:20px;
+ 	         
+ 	         
 
  }
  
